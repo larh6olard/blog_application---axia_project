@@ -54,15 +54,7 @@ npm install
 
 ### 3. Configure environment
 
-Create a `.env` file in the root directory:
-
-```NODE_ENV=development
-PORT=4000
-MONGO_URI=mongodb://localhost:27017/habeeb_blog
-JWT_SECRET=supersecret
-JWT_EXPIRES_IN=7d
-CORS_ORIGIN=http://localhost:5173
-```
+Create a `.env` file in the root directory
 
 ### 4. Run in development
 
@@ -130,8 +122,6 @@ npm run dev
 # Run server in production mode
 npm start
 
-# Lint code
-npm run lint
 ```
 
 ---
