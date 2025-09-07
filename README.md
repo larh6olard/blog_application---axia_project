@@ -24,7 +24,7 @@ Built with **ExpressJS, MongoDB (Mongoose), JWT, and Zod**.
 ├─ .env
 ├─ package.json
 ├─ README.md
-├─ src/
+├─
 │  ├─ index.js
 │  ├─ app.js
 │  ├─ config/
